@@ -44,7 +44,7 @@ documentscannerCV/
 └── README.md           # Project documentation
 Screenshots
 
-(Add screenshots of your scanner in action here)
+
 
 Future Enhancements
 📝 Add multi-page scanning to create PDFs directly.
